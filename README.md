@@ -17,11 +17,11 @@
 
 ## 🚀 Projects
 
-**TechieLearn**
+**TechieLearns**
 
 📱 App: https://play.google.com/store/apps/details?id=in.techielearn.app
 
-🌐 Website: https://techielearn.in/
+🌐 Website: https://techielearns.com
 
 
 ## 🌐 Socials
