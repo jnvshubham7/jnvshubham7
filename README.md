@@ -1,29 +1,59 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Shubham Bhokta</h1>
+<h1 align="center">
+  Hola! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="45" width="45" /> 
+  I'm Shubham Bhokta
+</h1>
 
-<h2 align="center">
-  <a href="https://shubham-bhokta.vercel.app/" style="display: inline-block;">My Portfolio - Link</a>
+<h3 align="center">
+  👨‍💻 Passionate Developer | 📱 Mobile & Web Enthusiast
+</h3>
 
-</h2>
+<p align="center">
+  <a href="https://shubham-bhokta.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-## 💳 Github Profile Summary
+---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jnvshubham7&theme=vue)
+## 📈 GitHub Profile Summary
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jnvshubham7&theme=vue" alt="Profile Summary" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=jnvshubham7&theme=vue&hide_border=false&include_all_commits=false&count_private=false)`<br/>`
-![](https://github-readme-streak-stats.herokuapp.com/?user=jnvshubham7&theme=vue&hide_border=false)`<br/>`
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jnvshubham7&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Analytics
 
-## 🚀 Projects
+<div align="center">
 
-**TechieLearn**
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jnvshubham7&theme=vue&hide_border=false" alt="GitHub Streak" />
 
-📱 App: https://play.google.com/store/apps/details?id=in.techielearn.app
+</div>
 
-🌐 Website: https://techielearn.com
+---
+
+## 🚀 Featured Project
+
+### **TechieLearn** - Empowering Education Through Technology
+
+| Platform | Link |
+|----------|------|
+| 🌐 **Website** | [Visit TechieLearn](https://techielearn.com) |
+| 📱 **Android App** | [Download on Google Play](https://play.google.com/store/apps/details?id=in.techielearn.app) |
 
 
-## 🌐 Socials
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kumar-bhokta-97113116b)
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/shubham-kumar-bhokta-97113116b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jnvshubham7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
